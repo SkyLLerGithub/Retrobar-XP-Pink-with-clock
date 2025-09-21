@@ -48,4 +48,5 @@
             </DataTrigger>
         </ControlTemplate.Triggers>
     </ControlTemplate>
+
 </ResourceDictionary>
